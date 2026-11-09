@@ -12,13 +12,14 @@ message within a hashmap. As soon as the protocol message is completed by a subs
 
 The final data corresponding to the total number of OUCH Message Type across each stream and the total executed shares is captured within a separate hashmap. 
 
-## OUCH Protocol
+<!-- ## OUCH Protocol
 The OUCH protocol messages in the capture consist of following message types. All the integer fields in the capture are Big Endian.
 
-![alt text](https://github.com/GDhir/Ouch_Network_Parser/blob/master/Packet_Info_IMG1.png)
+# ![alt text](https://github.com/GDhir/Ouch_Network_Parser/blob/master/Packet_Info_IMG1.png)
 
-![alt text](https://github.com/GDhir/Ouch_Network_Parser/blob/master/Packet_Info_IMG2.png)
+# ![alt text](https://github.com/GDhir/Ouch_Network_Parser/blob/master/Packet_Info_IMG2.png)
 
-![alt text](https://github.com/GDhir/Ouch_Network_Parser/blob/master/Packet_Info_IMG3.png)
+# ![alt text](https://github.com/GDhir/Ouch_Network_Parser/blob/master/Packet_Info_IMG3.png)
 
-![alt text](https://github.com/GDhir/Ouch_Network_Parser/blob/master/Packet_Info_IMG4.png)
+# ![alt text](https://github.com/GDhir/Ouch_Network_Parser/blob/master/Packet_Info_IMG4.png)
+-->
